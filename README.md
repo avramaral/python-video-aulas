@@ -1,3 +1,3 @@
-# python-video-aulas
+## Vídeo aulas de Python
 
-YouTube vídeo-aulas.
+Arquivos de apresentação das [vídeo aulas de Python](https://m.youtube.com/channel/UC5RVscKF68DWYixtJPrBccQ).
